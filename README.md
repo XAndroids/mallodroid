@@ -1,16 +1,12 @@
 mallodroid
 ==========
-
-Find broken SSL certificate validation in Android Apps. MalloDroid is a small tool built on top of the androguard (https://code.google.com/p/androguard/) reverse engineering framework for Android applications. Hence, androguard is required to use MalloDroid.
+在Android应用中查找有问题的SSL证书验证。MalloDroid是在androguard(https://code.google.com/p/androguard/)基础之上构建的，Android应用程序逆向工程框架小工具。因此，androguard需要使用MalloDroid.
 
 ===============================
 
-### Usage
-Example: ./mallodroid.py -f ExampleApp.apk -x
+### 使用
+例子: ./mallodroid.py -f ExampleApp.apk -x
 
 ./mallodroid.py --help
 
 ===============================
-
-### Contact
-Please do not hesitate to contact me if you have comments or questions.
